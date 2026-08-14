@@ -5,3 +5,4 @@ scipy>=1.13.0
 plotly>=5.22.0
 reportlab>=4.2.0
 kaleido==0.2.1
+xlsxwriter
